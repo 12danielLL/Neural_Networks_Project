@@ -1,4 +1,4 @@
-# Neural Networks Final Project
+# Neural Networks Project
 
 This repository contains the final project for the Neural Networks course . The project involves analyzing neural activity data to classify neuron types based on their electrical responses. The dataset was provided by the Allen Institute for Brain Science, with neurons sampled from human and mouse cortices.
 
@@ -88,7 +88,7 @@ jupyter notebook Neural_Networks_Project.ipynb
 ## Troubleshooting
 - If you encounter missing libraries, install them individually using:
 ```bash
-pip install 
+pip install <name of library>
 ```
 - For any other issues or questions, please open an issue on GitHub.
 
