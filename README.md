@@ -109,6 +109,8 @@ pip install <name of library>
 - Pandas
 - Matplotlib
 
-# License
-This project is distributed under the MIT License. See `LICENSE` file for more details.
+## License
+
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
+
 
